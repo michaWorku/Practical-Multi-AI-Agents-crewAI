@@ -16,27 +16,27 @@ The course equips developers and AI practitioners with skills to design, impleme
 
 ## 📚 Course Content
 
-1. [**Automated Project Planning**]('./L1-Automated-Project')
+1. [**Automated Project Planning**](./L1-Automated-Project)
    - Create structured project plans with estimated tasks and milestones.
    - Agents: Planning, Estimation, Resource Allocation
 
-2. [**Project Progress Report (Trello Integration)**]('./L2-Project-Progress-Report')
+2. [**Project Progress Report (Trello Integration)**](./L2-Project-Progress-Report)
    - Integrate Trello API to fetch real-time updates and generate reports.
    - Tools: Custom Trello fetchers
 
-3. [**Agentic Sales Pipeline**]('./L3-Agentic-Sales-Pipeline')
+3. [**Agentic Sales Pipeline**](./L3-Agentic-Sales-Pipeline)
    - Score leads using external data and generate personalized emails.
    - Modular scoring and email writing flows with conditional logic.
 
-4. [**Support Data Insight Analysis**]('./L4-Support-Data-Analysis')
+4. [**Support Data Insight Analysis**](./L4-Support-Data-Analysis)
    - Analyze CSV-based support data, generate suggestions, tables, charts.
    - Final output: a comprehensive markdown report with visuals.
 
-5. [**Content Creation at Scale**]('./L5-Content-Creation')
+5. [**Content Creation at Scale**](./L5-Content-Creation)
    - Multi-LLM content generation: monitor news, analyze data, create posts and articles.
    - Output includes blog + platform-specific social posts.
 
-6. [**Production Crew Setup**]('./L6-Blogger')
+6. [**Production Crew Setup**](./L6-Blogger)
    - Use the CLI to scaffold, configure, and deploy agentic projects.
    - Learn flow management with `crewai` CLI for dynamic execution.
 
